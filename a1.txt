@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 messi
+=======
+messi
+
+CAMBIOS DESDE LA RAMA DEV
+>>>>>>> dev
